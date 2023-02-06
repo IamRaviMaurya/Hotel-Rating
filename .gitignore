@@ -1,0 +1,13 @@
+/.idea
+/.metadata
+/ServiceRegistry/.gitignore
+/ServiceRegistry/.mvn/wrapper/maven-wrapper.jar
+/ServiceRegistry/.mvn/wrapper/*.jar
+/rating/.mvn/wrapper/*.jar
+/rating/.mvn/wrapper
+/rating/.gitignore
+/hotel/.mvn/wrapper
+/hotel/*.gitignore
+/UserService/.mvn/wrapper
+/UserService/*.gitignore
+/ServiceRegistry/.mvn/wrapper
